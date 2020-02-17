@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - collectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 1913698333
+    locked: 0
+  - name: Tree
+    uniqueID: 978496945
+    locked: 0
+  - name: grass
+    uniqueID: 3463493181
+    locked: 0
+  - name: rock
+    uniqueID: 3823928069
+    locked: 0
+  - name: collectable
+    uniqueID: 1842575089
+    locked: 0
+  - name: bush
+    uniqueID: 1699279703
+    locked: 0
+  - name: enemy
+    uniqueID: 492685105
+    locked: 0
+  - name: player
+    uniqueID: 3783394695
+    locked: 0
+  - name: shortTree
+    uniqueID: 317123791
+    locked: 0

@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NpcFlip : IFlip
+public class NPCFlip : IFlip
 {
     public bool FlipSprite(float x, SpriteRenderer spr)
     {
         return x > 0 ? false : true;
+        //get => x > 0 ? false : true;
     }
 }

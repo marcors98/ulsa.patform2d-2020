@@ -5,22 +5,18 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
-     Text txtScore;
-    [SerializeField] int currentScore;
+    Text txtScore;
+    [SerializeField]
+    int currentScore;
 
-    void Awake() 
+    void Awake()
     {
         txtScore = GetComponent<Text>();
     }
 
-    private void Start() 
-    {
-        
-    }
-
     public void AddPoints(int points)
     {
-        currentScore =+ points;
+        currentScore += points;
         txtScore.text = $"Score: {currentScore} pts";
     }
 }

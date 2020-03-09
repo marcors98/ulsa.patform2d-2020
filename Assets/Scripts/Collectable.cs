@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Collectable : MonoBehaviour
 {
-    [SerializeField] int points;
 
-    public int Points { get => points;}
+    [SerializeField]
+    int points;
+
+    public int Points { get => points; }
 }

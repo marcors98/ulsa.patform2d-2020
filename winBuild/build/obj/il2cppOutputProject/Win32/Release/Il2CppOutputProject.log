@@ -1,0 +1,247 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\cl.exe
+  
+  	Output directory: C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\build\bin\Win32\Release
+  	Cache directory: C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\build\obj\il2cppOutputProject\Win32\Release
+  Il2CppMetadataUsage.c
+  Il2CppTypeDefinitions.c
+  Il2CppCompilerCalculateTypeValues1.cpp
+  Il2CppAttributes.cpp
+  Il2CppGenericMethodPointerTable.cpp
+  Il2CppGenericMethodDefinitions.c
+  Il2CppInvokerTable.cpp
+  Il2CppGenericMethodTable.c
+  mscorlib_CodeGen.c
+  Il2CppCompilerCalculateTypeValues.cpp
+  GenericMethods1.cpp
+  UnityEngine.UIElementsModule.cpp
+  GenericMethods6.cpp
+  mscorlib3.cpp
+  Generics2.cpp
+  mscorlib9.cpp
+  GenericMethods4.cpp
+  mscorlib4.cpp
+  UnityEngine.UI.cpp
+  Unity.Postprocessing.Runtime.cpp
+  Unity.RenderPipelines.Universal.Runtime1.cpp
+  Unity.RenderPipelines.Core.Runtime.cpp
+  Il2CppGenericClassTable.c
+  Generics1.cpp
+  Unity.RenderPipelines.Core.Runtime1.cpp
+  mscorlib7.cpp
+  mscorlib11.cpp
+  GenericMethods5.cpp
+  Unity.RenderPipelines.Universal.Runtime.cpp
+  mscorlib2.cpp
+  mscorlib16.cpp
+  Cinemachine1.cpp
+  mscorlib12.cpp
+  Generics6.cpp
+  mscorlib6.cpp
+  mscorlib10.cpp
+  mscorlib.cpp
+  UnityEngine.UI1.cpp
+  GenericMethods3.cpp
+  Generics12.cpp
+  UnityEngine.CoreModule2.cpp
+  UnityEngine.UI2.cpp
+  mscorlib1.cpp
+  mscorlib15.cpp
+  UnityEngine.CoreModule1.cpp
+  UnityEngine.CoreModule.cpp
+  Cinemachine.cpp
+  Generics24.cpp
+  System.cpp
+  mscorlib8.cpp
+  Unity.Timeline.cpp
+  Unity.Postprocessing.Runtime1.cpp
+  Generics26.cpp
+  mscorlib14.cpp
+  GenericMethods.cpp
+  mscorlib5.cpp
+  mscorlib13.cpp
+  Generics25.cpp
+  Generics7.cpp
+  Generics20.cpp
+  Generics.cpp
+  Generics17.cpp
+  Il2CppGenericInstDefinitions.c
+  Generics23.cpp
+  Cinemachine2.cpp
+  System1.cpp
+  Generics13.cpp
+  Generics8.cpp
+  Generics15.cpp
+  Generics11.cpp
+  Generics10.cpp
+  Generics9.cpp
+  Generics16.cpp
+  Unity.RenderPipelines.Universal.Runtime2.cpp
+  Generics22.cpp
+  Generics18.cpp
+  Generics19.cpp
+  Generics3.cpp
+  Generics5.cpp
+  Generics14.cpp
+  GenericMethods2.cpp
+  Generics4.cpp
+  I18N.Rare.cpp
+  Unity.2D.Tilemap.Extras.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  Generics21.cpp
+  mscorlib17.cpp
+  UnresolvedVirtualCallStubs.cpp
+  UnityEngine.IMGUIModule.cpp
+  UnityEngine.VRModule.cpp
+  UnityEngine.UI3.cpp
+  UnityEngine.CoreModule3.cpp
+  I18N.CJK.cpp
+  I18N.West.cpp
+  Il2CppCompilerCalculateTypeValuesTable.cpp
+  Unity.RenderPipelines.Core.Runtime2.cpp
+  I18N.cpp
+  I18N.Rare1.cpp
+  GenericMethods7.cpp
+  UnityEngine.AndroidJNIModule.cpp
+  UnityEngine.AnimationModule.cpp
+  UnityEngine.UI_CodeGen.c
+  Unity.RenderPipelines.Core.Runtime_CodeGen.c
+  char-conversions.cpp
+  Generics27.cpp
+  I18N.Other.cpp
+  Assembly-CSharp.cpp
+  Unity.RenderPipelines.Universal.Runtime_CodeGen.c
+  Cinemachine_CodeGen.c
+  UnityEngine.TerrainModule.cpp
+  System2.cpp
+  UnityEngine.UIElementsModule1.cpp
+  I18N.MidEast.cpp
+  Il2CppCompilerCalculateTypeValues2.cpp
+  UnityEngine.Physics2DModule.cpp
+  UnityEngine.XRModule.cpp
+  Il2CppInteropDataTable.cpp
+  System_CodeGen.c
+  UnityEngine.UIElementsModule_CodeGen.c
+  UnityEngine.TextRenderingModule.cpp
+  UnityEngine.UIModule.cpp
+  UnityEngine.PhysicsModule.cpp
+  Unity.Postprocessing.Runtime_CodeGen.c
+  Unity.Timeline_CodeGen.c
+  UnityEngine.SharedInternalsModule.cpp
+  UnityEngine.InputLegacyModule.cpp
+  UnityEngine.SubsystemsModule.cpp
+  Mono.Security.cpp
+  UnityEngine.AudioModule.cpp
+  UnityEngine.TilemapModule.cpp
+  UnityEngine.VideoModule.cpp
+  deflate.c
+  UnityEngine.IMGUIModule_CodeGen.c
+  I18N.Rare_CodeGen.c
+  UnityEngine.ParticleSystemModule.cpp
+  UnityEngine.UnityWebRequestModule.cpp
+  UnityEngine.UnityAnalyticsModule.cpp
+  UnityEngine.VRModule_CodeGen.c
+  UnityEngine.AnimationModule_CodeGen.c
+  inflate.c
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  UnityEngine.VFXModule.cpp
+  System.Configuration.cpp
+  I18N.CJK_CodeGen.c
+  trees.c
+  Unity.2D.Tilemap.Extras_CodeGen.c
+  UnityEngine.InputModule.cpp
+  UnityEngine.JSONSerializeModule.cpp
+  xamarin_getifaddrs.c
+  System.Core_CodeGen.c
+  UnityEngine.DirectorModule.cpp
+  UnityEngine.PhysicsModule_CodeGen.c
+  UnityEngine.AssetBundleModule.cpp
+  I18N_CodeGen.c
+  I18N.West_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  System.Core.cpp
+  il2cpp-api.cpp
+  infback.c
+  UnityEngine.AIModule.cpp
+  UnityEngine.Physics2DModule_CodeGen.c
+  gzread.c
+  I18N.Other_CodeGen.c
+  gzwrite.c
+  Unity.RenderPipeline.Universal.ShaderLibrary.cpp
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  Assembly-CSharp_CodeGen.c
+  gzlib.c
+  UnityEngine.XRModule_CodeGen.c
+  UnityEngine.GridModule.cpp
+  UnityEngine.TerrainModule_CodeGen.c
+  crc32.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  UnityEngine.TilemapModule_CodeGen.c
+  inftrees.c
+  UnityEngine.InputLegacyModule_CodeGen.c
+  inffast.c
+  I18N.MidEast_CodeGen.c
+  UnityEngine.AudioModule_CodeGen.c
+  UnityEngine.VideoModule_CodeGen.c
+  zutil.c
+  Il2CppCodeRegistration.cpp
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  UnityEngine.SubsystemsModule_CodeGen.c
+  System.Xml.cpp
+  Lump_libil2cpp_icalls.cpp
+C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\Il2CppOutputProject\IL2CPP\libil2cpp\icalls\mscorlib\System\Type.cpp(282): warning C4834: se descarta el valor devuelto de la funci?n con el atributo "nodiscard"
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  System.Configuration_CodeGen.c
+  adler32.c
+  UnityEngine.DirectorModule_CodeGen.c
+  Mono.Security_CodeGen.c
+  UnityEngine.VFXModule_CodeGen.c
+  UnityEngine.InputModule_CodeGen.c
+  Il2CppReversePInvokeWrapperTable.cpp
+  uncompr.c
+  compress.c
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  Lump_libil2cpp_metadata.cpp
+  gc.c
+  Lump_libil2cpp_os.cpp
+  UnityEngine.AIModule_CodeGen.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  UnityAdsStubs.cpp
+  krait_signal_handler.c
+  UnityEngine.GridModule_CodeGen.c
+  Il2CppMetadataRegistration.c
+  Lump_libil2cpp_utils.cpp
+  UnityEngine.cpp
+  System.Xml_CodeGen.c
+  Lump_libil2cpp_vm.cpp
+  gzclose.c
+  il2cpp-benchmark-support.cpp
+  Unity.RenderPipeline.Universal.ShaderLibrary_CodeGen.c
+  Lump_libil2cpp_gc.cpp
+  Lump_libil2cpp_vm-utils.cpp
+  UnityEngine.AssetBundleModule_CodeGen.c
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_mono.cpp
+  Lump_libil2cpp_mono-runtime.cpp
+  Lump_libil2cpp_debugger.cpp
+  il2cpp-runtime-stats.cpp
+  Il2CppGenericComDefinitions.cpp
+  Lump_libil2cpp_codegen.cpp
+  ObjectFiles: 223 of which compiled: 223
+  	Time Compile: 18199 milliseconds Lump_libil2cpp_os.cpp
+  	Time Compile: 16919 milliseconds Lump_libil2cpp_vm.cpp
+  	Time Compile: 16671 milliseconds mscorlib5.cpp
+  	Time Compile: 13296 milliseconds System.cpp
+  	Time Compile: 8932 milliseconds gc.c
+  	Time Compile: 7889 milliseconds Generics21.cpp
+  	Time Compile: 7551 milliseconds mscorlib3.cpp
+  	Time Compile: 7497 milliseconds Il2CppInvokerTable.cpp
+  	Time Compile: 7186 milliseconds Generics.cpp
+  	Time Compile: 7131 milliseconds Lump_libil2cpp_icalls.cpp
+  Total compilation time: 162681 milliseconds.
+  Creando biblioteca C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\build\obj\il2cppOutputProject\Win32\Release\linkresult_8DAB6F45795642636EEFE869E7174B02\GameAssembly.lib y objeto C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\build\obj\il2cppOutputProject\Win32\Release\linkresult_8DAB6F45795642636EEFE869E7174B02\GameAssembly.exp
+  Total link time: 4541 milliseconds.
+  Cleaned up 1 object files.

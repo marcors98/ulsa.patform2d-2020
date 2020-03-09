@@ -1,18 +1,80 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.IO;
 
-public class MemorySystem : MonoBehaviour
+namespace Platform2DUtils.MemorySystem
 {
-    // Start is called before the first frame update
-    void Start()
+    public class MemorySystem 
     {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+
+        public static string SavePath
+        {
+            get => $"{Application.persistentDataPath}/";
+        }
+
+        static string path = $"{Application.persistentDataPath}/myGame.data";
+
+        public static void SaveData(GameData gameData)
+        {
+            BinaryFormatter bf = new BinaryFormatter();
+            FileStream file = File.Create(path);
+            string json = JsonUtility.ToJson(gameData);
+            bf.Serialize(file, json);
+            file.Close();
+            Debug.Log(path);
+        }
+
+        public static void SaveData(GameData gameData, string fileName)
+        {
+            string path = $"{Application.persistentDataPath}/{fileName}.data";
+            BinaryFormatter bf = new BinaryFormatter();
+            FileStream file = File.Create(path);
+            string json = JsonUtility.ToJson(gameData);
+            bf.Serialize(file, json);
+            file.Close();
+            Debug.Log(path);
+        }
+
+        public static bool DataExist
+        {
+            get => File.Exists(path);
+        }
+
+        public static GameData LoadData()
+        {
+            if(DataExist)
+            {
+                BinaryFormatter bf = new BinaryFormatter();
+                FileStream file = File.Open(path, FileMode.Open);
+                string json = bf.Deserialize(file) as string;
+                GameData gameData = JsonUtility.FromJson<GameData>(json);
+                return gameData;
+            }
+
+            return new GameData();
+        }
+
+        public static GameData LoadData(string path)
+        {
+            if(DataExist)
+            {
+                BinaryFormatter bf = new BinaryFormatter();
+                FileStream file = File.Open(path, FileMode.Open);
+                string json = bf.Deserialize(file) as string;
+                GameData gameData = JsonUtility.FromJson<GameData>(json);
+                return gameData;
+            }
+
+            return new GameData();
+        }
+
+        public static void DeleteData()
+        {
+            if(DataExist) File.Delete(path);
+        }
     }
 }
+

@@ -1,0 +1,2 @@
+﻿  No se pudo encontrar C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\build\bin\ARM64\Release\GameAssembly.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): error MSB4044: No se especificó un valor para la tarea "CppClean" para el parámetro "FilePatternsToDeleteOnClean" requerido.

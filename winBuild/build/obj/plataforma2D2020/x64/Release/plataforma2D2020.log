@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\plataforma2D2020\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marcado como en desuso
+C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\plataforma2D2020\App.cpp(26,1): message : Mensaje: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  plataforma2D2020.vcxproj -> C:\Users\jfcar\Documents\ulsa-platform2d-2020\winBuild\build\bin\x64\Release\plataforma2D2020.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\AppxPackage\Microsoft.AppXPackage.Targets(824,5): error : No se pudo abrir el certificado WSATestCertificate.pfx. 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\AppxPackage\Microsoft.AppXPackage.Targets(824,5): error : La contraseña de red especificada no es válida.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\AppxPackage\Microsoft.AppXPackage.Targets(824,5): error : 
